@@ -1,5 +1,6 @@
 baseurl = "https://chicagolug.org/"
 title = "The Chicago GNU/Linux User Group"
+subtitle = "ChicagoLUG"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -13,6 +14,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/meetings/"
     author = "chicagolug"
+    shorttitle = "ChicagoLUG"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
