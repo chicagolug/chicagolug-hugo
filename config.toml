@@ -38,15 +38,15 @@ paginate = 10
     copyright = "Copyright (c) 2005 - 2017, ChicagoLUG; all rights reserved / all wrongs reversed."
     date_format = "2006-01-02"
     logo = "img/chicagolug-logo.png"
-    address = """<p><strong>ChicagoLUG</strong>
-        <br>A1-A Beachfront Avenue
-        <br>Chicago, Illinois 60606
-        <br>
-        <strong>USA</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    # address = """<p><strong>ChicagoLUG</strong>
+    #    <br>A1-A Beachfront Avenue
+    #    <br>Chicago, Illinois 60606
+    #    <br>
+    #    <strong>USA</strong>
+    #  </p>
+    #  """
+    #latitude = "-12.043333"
+    #longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
