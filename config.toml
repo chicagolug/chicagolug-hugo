@@ -51,6 +51,9 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
+[[params.twitter]]
+    Twitter = "chicagolug"
+
 [[params.menu]]
     name = "Meetings"
     url  = "/meetings/"
