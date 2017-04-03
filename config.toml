@@ -34,8 +34,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Using and advocating for Free / Libre & Open Source Software since 2005</p>"
-    copyright = "Copyright (c) 2005 - 2017, ChicagoLUG; all rights reserved / all wrongs reversed."
+    about_us = "<p>Using and advocating for Free / Libre & Open Source Software since 2005.</p>"
+    copyright = "Page texts are licensed as CC-by-SA 4.0. Site CSS and Javascript libraries are available under their individual licenses."
     date_format = "2006-01-02"
     logo = "img/chicagolug-logo.png"
     # address = """<p><strong>ChicagoLUG</strong>
