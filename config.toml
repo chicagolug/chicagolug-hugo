@@ -3,6 +3,7 @@ title = "The Chicago GNU/Linux User Group"
 subtitle = "ChicagoLUG"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
+buildFuture = "True"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
