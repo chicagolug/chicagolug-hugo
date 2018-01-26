@@ -8,4 +8,8 @@ tags = [ "contact" ]
 type = "page"
 +++
 
-You can get in touch with other ChicagoLUG members through our mailing list and IRC channel. You can also follow us on Twitter; we are: `@ChicagoLUG`. Details to follow soon.
+You can get in touch with other ChicagoLUG members through our mailing list
+and IRC channel.
+
+You can also follow us on Twitter; we are:
+[@ChicagoLUG](https://twitter.com/ChicagoLUG). 
