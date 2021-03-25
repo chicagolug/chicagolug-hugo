@@ -2,7 +2,7 @@
 title = "About ChicagoLUG"
 subtitle = "About ChicagoLUG"
 date = "2016-11-25T14:31:53-06:00"
-description = "Information about the Chicago GNU/Linux User Group."
+description = "Information about the Chicago Linux User Group."
 slug = "pages/about"
 tags = [ "about" ] 
 type = "page"
