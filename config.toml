@@ -1,5 +1,5 @@
 baseurl = "https://chicagolug.org/"
-title = "The Chicago GNU/Linux User Group"
+title = "The Chicago Linux User Group"
 subtitle = "ChicagoLUG"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -105,7 +105,7 @@ paginate = 10
     enable = true
     icon = "fa fa-linux"
     title = "Welcome!"
-    subtitle = "The Chicago GNU/Linux User Group is a community of GNU/Linux and Free software developers, enthusiasts and system administrators who live in and around Chicago, Illinois. If you're curious about Linux and Free/Libre and Open-Source software, consider joining us."
+    subtitle = "The Chicago Linux User Group is a community of Linux and Free software developers, enthusiasts and system administrators who live in and around Chicago, Illinois. If you're curious about Linux and Free/Libre and Open-Source software, consider joining us."
     link_url = "pages/about/"
     link_text = "Learn More"
 
