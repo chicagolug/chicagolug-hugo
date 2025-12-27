@@ -10,7 +10,8 @@ buildFuture = "True"
 # googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 10
+[pagination]
+pagerSize = 10
 
 [params]
     viewMorePostLink = "/meetings/"
@@ -50,7 +51,7 @@ paginate = 10
     #longitude = "-77.028333"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 [[params.twitter]]
     Twitter = "chicagolug"
